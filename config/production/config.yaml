@@ -2,6 +2,11 @@
 
 baseURL: https://www.stephanelanteri.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 7bd61bb6-9794-41da-98cd-7374efb40e4a
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
